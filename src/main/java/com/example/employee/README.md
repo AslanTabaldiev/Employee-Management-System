@@ -28,8 +28,7 @@ The GUI allows users to:
 
 ### Clone the Repository:
 ```bash
-git clone <your-repo-link>
-cd <your-repo-folder>
+git clone https://github.com/AslanTabaldiev/Employee-Management-System.git
 ```
 
 ### Setup JavaFX in Your IDE:
